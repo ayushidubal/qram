@@ -1,4 +1,4 @@
-# qram
+# qRAM
 Implementing bucket-brigade quantum RAM with Qiskit.
 
 ## References
