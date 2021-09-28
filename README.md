@@ -1,7 +1,7 @@
 # qRAM
 Implementing Grover's Algorithm on a quantum RAM with Qiskit.
 
-Application for cohort 4 of QOSF's mentorship program.
+Application for cohort 4 of QOSF's mentorship program. Task 1.
 
 ## References
 - https://arxiv.org/pdf/0708.1879.pdf
